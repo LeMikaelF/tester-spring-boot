@@ -1,0 +1,3 @@
+logging:
+  level:
+    net.ttddyy.dsproxy.listener.logging.SLF4JQueryLoggingListener: DEBUG

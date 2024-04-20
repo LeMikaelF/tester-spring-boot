@@ -1,0 +1,20 @@
+{
+  "id": "123456",
+  "person": [
+    {
+      "name": {
+        "first": "John",
+        "last": "Doe"
+      },
+      "attributes": {
+        "age": 42
+      },
+      "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+      }
+    }
+  ]
+}

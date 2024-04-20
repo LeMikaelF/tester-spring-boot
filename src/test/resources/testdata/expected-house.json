@@ -1,0 +1,11 @@
+{
+  "entities": [
+    {
+      "category": "house",
+      "owner": {
+        "id": 1
+      },
+      "subcategory": "withGarage"
+    }
+  ]
+}
